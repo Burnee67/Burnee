@@ -22605,19 +22605,12 @@ has-background-danger.is-hoverable:active {
   pointer-events: all !important;
 }
 
-:root {
-  --bulma-primary-h: 151deg;
-  --bulma-primary-s: 65%;
-  --bulma-primary-l: 42%;
-}
-
 .button.is-primary {
   background-color: #2bac73;
   border-color: #2bac73;
   color: white;
   transition: all 0.2s ease;
 }
-
 .button.is-primary:hover {
   background-color: rgb(36.55, 146.2, 97.75);
   border-color: rgb(36.55, 146.2, 97.75);
@@ -22630,7 +22623,6 @@ has-background-danger.is-hoverable:active {
   color: white;
   transition: all 0.2s ease;
 }
-
 .button.is-secondary:hover {
   background-color: rgb(255, 114.2247191011, 27.2);
   border-color: rgb(255, 114.2247191011, 27.2);
